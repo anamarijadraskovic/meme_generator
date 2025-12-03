@@ -22,6 +22,14 @@
     margin-right: auto;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+}
+
 .form {
     display: grid;
     grid-template: auto auto / 1fr 1fr;

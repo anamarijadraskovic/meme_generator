@@ -22,7 +22,7 @@ export function Main() {
             imageUrl: newMemeUrl
         }))
     }
-    
+
     function handleChange(event) {
         const {value, name} = event.currentTarget
         setMeme(prevMeme => ({
