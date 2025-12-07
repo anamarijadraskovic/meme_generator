@@ -13,8 +13,6 @@ Fully optimized with perfect Lighthouse scores and installable as a Progressive 
 - Download the generated meme as a PNG
 - Installable as a PWA
 - Achieves a perfect 100 in all Lighthouse categories
-- Styled using CSS Modules
-- More suitable for desktop/web than mobile
 
 ## Tech Stack
 
